@@ -1,0 +1,84 @@
+.progress-bar {
+  background-color: #3F9C35;
+}
+
+.shinysky-busy-indicator{
+  color: #3F9C35;
+  font-family: 'Helvetica Neue';
+  font-weight: bold;
+}
+
+div.shinysky-busy-indicator{
+  background-color: rgba(230,230,230,0) !important;
+  left: 52.5% !important;
+  top: 30% !important;
+}
+
+h {
+  font-family: 'Helvetica Neue';
+  color: #3F9C35;
+}
+/*h4 {
+  padding-left: 20px
+}*/
+.actButt {
+  color: #3F9C35;
+}
+
+.downButt {
+  width: 100%;
+}
+
+.action-button:disabled{
+  width: 100%;
+  cursor:auto;
+}
+/* set image positions */
+/*.background-img2 {
+    position:fixed;
+    right:20;
+    bottom: 80px;
+    left: 5px
+} 
+.background-img {
+    position:fixed;
+    right:20px;
+    bottom: 10px;
+    left: 5px
+} */
+
+
+/*colour of the logo */
+.skin-blue .main-header .logo {
+	background-color: #3F9C35;
+}
+/*colour of the logo when hovered over*/
+.skin-blue .main-header .logo:hover {
+	background-color: #3F9C35;
+}
+/*colour of the header */
+.skin-blue .main-header .navbar {
+	background-color: #3F9C35;
+}        
+/*colour of the sidebar */
+.skin-blue .main-sidebar {
+	background-color: #C9CAC8;
+}
+/* active selected tab in the sidebarmenu */
+.skin-blue .main-sidebar .sidebar .sidebar-menu .active a{
+		background-color: #C9CAC8;
+}
+/* other links in the sidebarmenu */
+.skin-blue .main-sidebar .sidebar .sidebar-menu a{
+	background-color: #C9CAC8;
+	color: #000000;
+}
+/* other links in the sidebarmenu when hovered */
+
+ .skin-blue .main-sidebar .sidebar .sidebar-menu a:hover{
+	background-color: #00617A;
+}
+/* toggle button when hovered  */                    
+ .skin-blue .main-header .navbar .sidebar-toggle:hover{
+	background-color: #00617A;
+}
