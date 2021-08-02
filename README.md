@@ -1,10 +1,12 @@
-[<img src="PeaPal_chips/www/JNCCLogo_3DCol_transp.png" width=400px >](https://jncc.gov.uk/)
+[<img src="./PeatPal_chips/www/JNCCLogo_3DCol_transp.png" width=400px >](https://jncc.gov.uk/)
 
 
 <p> 
 
 <p>
+  
 # deep-learning-bare-peat
+  
 Workflow to create deep learning models for assessing areas of bare peat in aerial imagery.
   
 This code was written for aproof-of-concept project developed as part of the Data Science Accelerator Programme, aiming to explore mapping areas of bare peat in aerial photography using deep learning techniques.
