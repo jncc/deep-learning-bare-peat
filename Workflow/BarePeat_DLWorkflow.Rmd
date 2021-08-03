@@ -52,7 +52,7 @@ Pre-processing of the data (steps 1.1, 1.3-1.5) and writing results back out as 
 * raster_3.4-5    
 * sp_1.4-5      
 
-1.2 and general visualisation of layers was carried out with QGIS version: 3.4 Madeira. 
+1.2 and general visualisation of layers was carried out with QGIS version: 3.16 Hannover. 
 1.6 (Stacking of the numpy arrays) was carried out with Python 3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)] via Jupyter notebook server version 6.1.4. The packages called include:
 
 * numpy 1.19.2 
